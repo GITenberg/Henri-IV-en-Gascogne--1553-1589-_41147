@@ -1,0 +1,31 @@
+_repo: Henri-IV-en-Gascogne--1553-1589-_41147
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41147-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Batz-Trenquelléon, Charles de
+    aliases:
+    - Batz-Trenquelléon, Charles-Henry-Joseph de
+    - Batz-Trenquelleon, Charles de
+    birthdate: 1835
+    deathdate: 1914
+    gutenberg_agent_id: '41004'
+    url: http://www.gutenberg.org/2009/agents/41004
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2012-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41147'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Henry IV, King of France, 1553-1610'
+- !lcsh 'France -- History -- Henry IV, 1589-1610'
+title: Henri IV en Gascogne (1553-1589)
+url: http://www.gutenberg.org/ebooks/41147
