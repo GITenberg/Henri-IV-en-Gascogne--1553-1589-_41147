@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41004'
     url: http://www.gutenberg.org/2009/agents/41004
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41147#Henri-IV-en-Gascogne--1553-1589-
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2012-10-23'
 gutenberg_type: Text
